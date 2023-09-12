@@ -1,0 +1,12 @@
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\bin\Debug\VodafoneLdapTestApp.exe.config
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\bin\Debug\VodafoneLdapTestApp.exe
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\bin\Debug\VodafoneLdapTestApp.pdb
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\obj\Debug\VodafoneLdapTestApp.csproj.AssemblyReference.cache
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\obj\Debug\VodafoneLdapTestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\obj\Debug\VodafoneLdapTestApp.csproj.CoreCompileInputs.cache
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\obj\Debug\VodafoneLdapTestApp.exe
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\obj\Debug\VodafoneLdapTestApp.pdb
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\bin\Debug\VodafoneLdapTestApp.exe.manifest
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\bin\Debug\VodafoneLdapTestApp.application
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\obj\Debug\VodafoneLdapTestApp.exe.manifest
+C:\Users\tr32148\source\repos\VodafoneLdapTestApp\VodafoneLdapTestApp\obj\Debug\VodafoneLdapTestApp.application
